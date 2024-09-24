@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kronymc.github.io/sitemap.html.gz
+Sitemap: https://kronymc.github.io/app/sitemap.html.gz
+Sitemap: https://kronymc.github.io/assets/sitemap.html.gz
+Sitemap: https://kronymc.github.io/css/sitemap.html.gz
+Sitemap: https://kronymc.github.io/data/sitemap.html.gz
+Sitemap: https://kronymc.github.io/includes/sitemap.html.gz
+Sitemap: https://kronymc.github.io/item/sitemap.html.gz
+Sitemap: https://kronymc.github.io/src/sitemap.html.gz
